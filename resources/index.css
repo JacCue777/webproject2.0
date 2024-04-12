@@ -1,0 +1,40 @@
+/*
+light blue background; #C0D7ED
+light green;#CEEDE8
+table dark blue;#2F4F6E
+brown;#705F51
+heading color:#2F6E64
+*/
+
+
+
+body{
+	background-color: #C0D7ED ; 
+}
+
+h1,h2,h3{
+	color:#2F4F6E ;
+}
+h1{
+	text-align: center;
+}
+th,td {
+	border-color: #2F6E64;
+	border-style: solid;
+	border-width: 8px;
+	padding:7px;
+}
+table{
+	border-collapse: collapse;
+	background-color: #CEEDE8 ;
+}
+div{
+	background-color:#705F51;
+	padding:10px;
+}
+body{
+	padding: 0 25px 30px 25px;
+}
+p, li{
+	font-size: 1.2em;
+}
